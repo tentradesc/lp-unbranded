@@ -362,10 +362,14 @@
                                                     value="<?php echo htmlspecialchars($utm_term) ?>" />
                                                 <input type="hidden" id="lead" name="lead" class="form-control1"
                                                     value="false" />
+                                                <input type="hidden" id="lead" name="lead" class="form-control1"
+                                                    value="false" />
                                                 <input type="hidden" id="lang" name="lang" class="form-control1"
                                                     value="es" />
-                                                <input type="hidden" id="lang" name="country" class="form-control1"
-                                                    value="<?php $iso_3166 ?>" />
+                                                <input type="hidden" id="country" name="country" class="form-control1"
+                                                    value="" />
+                                                <input type="hidden" id="city" name="city" class="form-control1"
+                                                    value="" />
                                             </div>
                                         </div>
                                         <div class="row">
