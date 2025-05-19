@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="it">x
+<html lang="it">
 <head>
     <meta charset="UTF-8">
     <title><?= $pageTitle ?? 'Default Title' ?></title>
