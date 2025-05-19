@@ -6,6 +6,7 @@
     <?= $headExtras ?? '' ?>
 </head>
 <body>
+    <?php include __DIR__ . '/gtm_body.php'; ?>
     <?php include $pageContent; ?>
 </body>
 </html>
