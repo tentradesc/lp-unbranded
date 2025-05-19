@@ -383,14 +383,6 @@
                                                     value="" />
                                             </div>
                                         </div>
-                                        <div class="row">
-                                            <div class="input-group col-lg-12">
-                                                <select name="country" id="country" class="form-control form-select"
-                                                    required>
-                                                    <option value="MX">Mexico</option>
-                                                </select>
-                                            </div>
-                                        </div>
                                         <span class="form_checkbox">
                                             <input type="checkbox" id="vehicle1" name="vehicle1" value="">
                                             <label for="vehicle1">Confermi di avere almeno 18 anni e di aver letto la
