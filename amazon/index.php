@@ -7,6 +7,7 @@
    $utm_term = isset($_GET['utm_term']) ? $_GET['utm_term'] : '';
 
    $pageTitle = "Scopri il potenziale di Amazon: l’opportunità di trading che non puoi perdere";
+   $pageContent = __DIR__ . '/content.php';
 
    $headExtras = <<<HTML
        <meta charset="UTF-8">
@@ -25,7 +26,6 @@
       <script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async></script>
    HTML;
 
-   $pageContent = __DIR__ . '/content.php';
    include __DIR__ . '/../layout.php';
 
 ?>
