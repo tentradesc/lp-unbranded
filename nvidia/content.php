@@ -362,22 +362,12 @@
                                                     value="<?php echo htmlspecialchars($utm_term) ?>" />
                                                 <input type="hidden" id="lead" name="lead" class="form-control1"
                                                     value="false" />
-                                                <input type="hidden" id="lead" name="lead" class="form-control1"
-                                                    value="false" />
                                                 <input type="hidden" id="lang" name="lang" class="form-control1"
                                                     value="es" />
                                                 <input type="hidden" id="country" name="country" class="form-control1"
                                                     value="" />
                                                 <input type="hidden" id="city" name="city" class="form-control1"
                                                     value="" />
-                                            </div>
-                                        </div>
-                                        <div class="row">
-                                            <div class="input-group col-lg-12">
-                                                <select name="country" id="country" class="form-control form-select"
-                                                    required>
-                                                    <option value="MX">Mexico</option>
-                                                </select>
                                             </div>
                                         </div>
                                         <span class="form_checkbox">
