@@ -321,7 +321,7 @@
                             <!-- Form Section -->
                             <section>
                                 <div class="form-container">
-                                    <?php include __DIR__ . '../includes/form.php'; ?>
+                                    <?php include __DIR__ . '/../includes/form.php'; ?>
                                 </div>
                             </section>
                             <img src="assets/Nvidia.png" alt="Nvidia" class="icon-img2 d-block d-lg-none">
